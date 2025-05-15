@@ -1,7 +1,0 @@
-#include <ios>
-int n,m,i,a[10000],b,t;main()
-{
-    scanf("%d%d",&n,&m);
-    for(b=n*m,i=-1;++i<b*2; scanf("%d",&t),a[i%b]+=t);
-        for(i=-1;++i<b;printf("%d ",a[i]));
-    }
