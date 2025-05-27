@@ -7,12 +7,11 @@ int main() {
   
     int input;
     int i,j;
-    int result=0;
     int equal=0;
-    int num=0;
     int temp=0;
-
+    
     scanf("%d",&input);
+    int result=input;
 
     for(i=0;i<input;i++){
         scanf("%s",data);
@@ -21,22 +20,13 @@ int main() {
           if(data[j] != data[j+1]){
               for(int k=j+1;k<len;k++){
                   if(data[j] == data[k]){
-                      num=0;
-                      temp=1;
-                      break;
+                    result--;
+                    goto r;
                   }
               }
           }
-
-        if(temp == 1){
-            temp=0;
-            break;
-        }else {
-            num=1;
         }
-        }
-        result+=num;
-        
+        r:;
     }
     printf("%d",result);
     return 0;
