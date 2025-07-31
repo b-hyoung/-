@@ -2,7 +2,6 @@
 
 int main() {
     int n;
-    int a=25,b=10,c=5,d=1;
     int p[4]={25,10,5,1};
     std::cin >> n;
     int result[n];
