@@ -12,5 +12,7 @@
   - 매일매일 웹 프론트엔드 용어 정리하기
     - [클로저(Closer)란?](https://github.com/b-hyoung/TIL/blob/master/TIL/2025-08-01.md)
 - 2025.08.04
-  - 매일매일 웹 프론트엔드 용어 정리하기 & USCODE
-    - [실행 컨텍스트 & USCODE 1일차](https://github.com/b-hyoung/TIL/blob/master/TIL/2025-08-04.md)
+  - 매일매일 웹 프론트엔드 용어 정리하기
+    - [실행 컨텍스트](https://github.com/b-hyoung/TIL/blob/master/TIL/2025-08-04.md)
+  - US:CODE
+    - [Day 1]()
