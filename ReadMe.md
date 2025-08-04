@@ -11,3 +11,6 @@
 - 2025.08.01
   - 매일매일 웹 프론트엔드 용어 정리하기
     - [클로저(Closer)란?](https://github.com/b-hyoung/TIL/blob/master/TIL/2025-08-01.md)
+- 2025.08.04
+  - 매일매일 웹 프론트엔드 용어 정리하기
+    - [실행 컨텍스트](https://github.com/b-hyoung/TIL/blob/master/TIL/2025-08-04.md)
