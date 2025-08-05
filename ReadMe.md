@@ -16,3 +16,6 @@
     - [실행 컨텍스트](https://github.com/b-hyoung/TIL/blob/master/TIL/2025-08-04.md)
   - US:CODE
     - [Day 1](https://github.com/b-hyoung/TIL/blob/master/TIL/US:CODE_day1.md)
+- 2025.08.05
+  - US:CODE
+    - [Day 2](https://github.com/b-hyoung/TIL/blob/master/TIL/US:CODE_day2.md)
